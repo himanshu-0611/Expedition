@@ -1,4 +1,4 @@
-# Expedition
+# Expedition.
 ## By Himanshu Agarkar, 3rd Sem, A-CT, YCCE.
 
 Note: You will be redirected to my Insta Page by clicking any of the Insta icons in the website.<br>
